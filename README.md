@@ -40,4 +40,4 @@ Building Motion Heat Map video using OpenCV
 
 19.	Mask is merged with the current frame
 
-20.	Video is generated showing the heatmap for every frame. to do this, each frame is exported and merged together using cv2
+20.	Video is generated showing the heatmap for every frame. To do this, each frame is exported and merged together using cv2.VideoWriter()
