@@ -1,7 +1,7 @@
 # Motion-Heat-Map-video-creation
 Building Motion Heat Map video using OpenCV
 
-Explanation to the process
+#Explanation to the process
 1.	Video is read from the input file “input.mp4”
 
 2.	Gaussian Mixture-based Background/Foreground Segmentation Algorithm is used (cv2.createBackgroundSubtractorMOG2()) 
